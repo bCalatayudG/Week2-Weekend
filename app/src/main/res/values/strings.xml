@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2-Weekend</string>
+    <string name="imports">import</string>
+    <string name="slideshow">slideshow</string>
+    <string name="tools">tools</string>
+    <string name="gallery">gallery</string>
+</resources>
